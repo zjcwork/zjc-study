@@ -1,1 +1,2 @@
 # zjc-study
+The NEWs
